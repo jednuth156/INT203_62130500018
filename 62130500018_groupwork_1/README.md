@@ -1,7 +1,7 @@
 # Group Work 1 Copy for Education
 ## Referent
 
-### Web site Templaete
+### Web site Original Templaete
 -https://mailchimp.com/
 
 ### CSS Framework
